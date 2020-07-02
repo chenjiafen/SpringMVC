@@ -15,7 +15,7 @@ mac 电脑的数据库
                 <property name="driver" value="com.mysql.jdbc.Driver"/>
                 <property name="url" value="jdbc:mysql://localhost:3306/day17"/>
                 <property name="username" value="root"/>
-                <property name="password" value="root1234"/>
+                <property name="password" value="$$$$$$$$$"/>
             </dataSource>
         </environment>
     </environments>
